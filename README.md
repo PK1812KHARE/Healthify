@@ -71,7 +71,7 @@ Healthify is a React-based web application that allows users to find medical cen
   GET https://meddata-backend.onrender.com/cities/:state
 ```
 
-#### Get a list of all medical centers based on a state and city
+#### Get a list of all medical centers based on a state and city.
 
 ```http
   https://meddata-backend.onrender.com/data?state=<state-name>&city=<city-name>
