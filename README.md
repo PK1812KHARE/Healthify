@@ -10,7 +10,7 @@ Healthify is a React-based web application that allows users to find medical cen
 ### Landing Page:
 - A top navigation bar with access to platform sections such as Find Doctors, Hospitals, Medicines, and more.
 - A search section for users to select a state and city, leading to a list of available medical centers in the chosen area.
-- Both State and City have a dropdown where the options will be fetched from an api which is provided in the description below.
+- Both State and City have a dropdown where the options will be fetched from an api which is provided in the description below
 
 
 #### Hero section to select state and city
